@@ -1,0 +1,1 @@
+https://blog.udemy.com/scala-tutorial-getting-started-with-scala/
